@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testlogischefouten", "testlogischefouten\testlogischefouten.csproj", "{E184BA3B-F542-4DD7-97E9-6FBE3912909D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E184BA3B-F542-4DD7-97E9-6FBE3912909D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E184BA3B-F542-4DD7-97E9-6FBE3912909D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E184BA3B-F542-4DD7-97E9-6FBE3912909D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E184BA3B-F542-4DD7-97E9-6FBE3912909D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7997D3-9B07-4C6C-9C7B-EF413CEA7E0A}
+	EndGlobalSection
+EndGlobal
